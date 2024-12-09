@@ -8,6 +8,9 @@ dart 문법과 flutter 프레임워크를 사전 학습해 우리 서비스의 �
 3. FUNCTIONS - 총 30분
 4. CLASSES - 총 45분
 
+https://nomadcoders.co/dart-for-beginners/lobby
+
+
 ## nomad coder - Flutter 로 웹툰 앱 만들기 (2주 컷 예상)
 0. INTRODUCTION - 총 35분
 1. HELLO FLUTTER - 총 55분
