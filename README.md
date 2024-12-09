@@ -15,3 +15,5 @@ dart 문법과 flutter 프레임워크를 사전 학습해 우리 서비스의 �
 3. STATEFUL WIDGETS - 총 35분
 4. POMODORO APP - 총 35분
 5. WEBTOON APP - 총 160분
+
+https://nomadcoders.co/flutter-for-beginners/lobby
